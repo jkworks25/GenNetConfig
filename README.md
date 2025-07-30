@@ -11,6 +11,9 @@ The application currently supports the generation of configurations for:
 *   **Interfaces:** Configure basic interface settings, including description, IP address, and subnet mask.
 *   **BGP (Border Gateway Protocol):** Set up a basic BGP configuration with a neighbor and advertise a network.
 *   **MPLS (Multiprotocol Label Switching):** Enable MPLS globally and on a specific interface.
+*   **Switching:**
+    *   **VLAN Creation:** Create and name new VLANs.
+    *   **Switchport Configuration:** Configure an interface as an access or trunk port.
 
 ## Usage
 
